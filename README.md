@@ -70,8 +70,25 @@ The following visualizations are generated:
        git push -u origin main
 
 ## 🚀 How to Run
-### Prerequisites
-```bash
-# Install Python 3.8+
-# Install dependencies
-pip install -r requirements.txt
+ # Prerequisites
+      ```bash
+      # Install Python 3.8+
+      # Install dependencies
+      pip install -r requirements.txt
+
+# License
+     This project is open-source under the MIT License.
+
+🙏 Acknowledgments
+     CIFAR-100 dataset creators
+     Py.Torch team for deep learning framework
+
+# Open-source community
+     Created by: Faiq Ul Hassan
+     Roll Number: F22BSEEN1E02109
+     Date: 24 May, 2026
+
+# Repository Linked     
+     https://github.com/faiqhashmi08/Large-Scale-Classification-Model
+
+     
