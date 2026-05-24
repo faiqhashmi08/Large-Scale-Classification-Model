@@ -37,6 +37,12 @@ Layers:
    - Model Checkpoints: ./checkpoints/
    - Logs: ./logs/
 
+Realistic range for a student project:
+  Minimum acceptable: 55%
+  Good performance: 60-65%
+  Excellent performance: 65-70%
+  Outstanding (with pretrained): 75%+
+
 ### Performance Graphs
 The following visualizations are generated:
 1. Training History - Loss and accuracy curves
