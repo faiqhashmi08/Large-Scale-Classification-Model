@@ -27,10 +27,15 @@ Layers:
 
 | Metric | Value |
 |--------|-------|
-| Best Validation Accuracy |
-| Final Test Accuracy |
-| Training Time | minutes |
+| Best Validation Accuracy | 65.67% |
+| Final Test Accuracy | 63.89% |
+| Training Time | 18.45 minutes |
 | Model Size | 43 MB |
+
+📁 All outputs saved in:
+   - Figures: ./figures/
+   - Model Checkpoints: ./checkpoints/
+   - Logs: ./logs/
 
 ### Performance Graphs
 The following visualizations are generated:
