@@ -51,8 +51,25 @@ The following visualizations are generated:
 4. Sample Predictions - Visual examples with confidence scores
 5. Performance Dashboard - Comprehensive summary
 
-## 🚀 How to Run
+### Quick Setup & Run Commands
+# 1. Clone/Create the repository
+       mkdir LargeScale-Classification-Model
+       cd LargeScale-Classification-Model
+# 2. Create all files (copy the code above)
+       Copy all Code
+# 3. Install dependencies
+       pip install -r requirements.txt
+# 4. Run the project
+       python main.py
+# 5. Initialize Git and push to GitHub
+       git init
+       git add .
+       git commit -m "Initial commit: Large-scale image classification with ResNet"
+       git branch -M main
+       git remote add origin https://github.com/YOUR_USERNAME/LargeScale-Classification-Model.git
+       git push -u origin main
 
+## 🚀 How to Run
 ### Prerequisites
 ```bash
 # Install Python 3.8+
